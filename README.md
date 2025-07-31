@@ -1,7 +1,8 @@
-# meridian
+# MERIDIAN
 meridian research
 
-
+## Local Development Environment Set Up
+### Ubuntu and Docker
 1. Install WSL Ubuntu distro
 ```PS
 wsl --install Ubuntu-24.04
@@ -25,4 +26,4 @@ wsl --install Ubuntu-24.04
 
         [/etc/hosts](/exampleConfigurationFiles/ubuntu/hosts)
 
-
+### Docker Images
